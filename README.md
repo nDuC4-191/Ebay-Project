@@ -24,7 +24,7 @@ Frontend & Backend: RazorPage
 * Project Management: Jira, story points for task estimation
 ## Database Schema
 Below is the MS SQL database schema with additional tables/fields for enhanced functionality.
-![Clone Ebay DB](file:///C:/Users/Windows%2010/OneDrive/Pictures/CloneEbayDB.jpeg)
+![CloneEbayDB](https://github.com/user-attachments/assets/27c5940c-acd7-4f5e-82b9-03084d476517)
 ## Additional Database Notes
 * Added isVerified and createdAt to User for email verification and tracking.
 * Added postalCode to Address for precise shipping.
@@ -43,7 +43,7 @@ Below is the MS SQL database schema with additional tables/fields for enhanced f
 2. Configure Environment:
     * Update appsettings.json with PayOS API keys, database connection string, and JWT settings.
 3. Run Application:
-![Screenshot 2025-07-26 004337](file:///C:/Users/Windows%2010/OneDrive/Pictures/Screenshots/Screenshot%202025-07-26%20004337.png)
+<img width="1180" height="88" alt="Screenshot 2025-07-26 004337" src="https://github.com/user-attachments/assets/2909d8bf-9b7e-4acc-be29-aef54beee952" />
 4. CI/CD:
     * Configure Jenkins/GitLab Actions for automated builds and deployments.
 5. Testing:
